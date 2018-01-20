@@ -1,2 +1,2 @@
 # project-gym
-A web template for gyms.
+![alt text](project-gym/gym.png "Project GYM")
