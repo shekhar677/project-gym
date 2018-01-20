@@ -1,2 +1,2 @@
 # project-gym
-![alt text](project-gym/gym.png "Project GYM")
+![Project GYM](https://github.com/shekhar677/project-gym/gym.png)
